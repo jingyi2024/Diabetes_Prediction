@@ -1,6 +1,6 @@
 # Diabetes Prediction
-
-This project focuses on predicting diabetes using various machine learning models. The aim is to accurately identify potential diabetes cases based on a set of health-related parameters.
+[YouTube Presentation](https://www.youtube.com/watch?v=-QAWOMDZ9NM)
+- This project focuses on predicting diabetes using various machine learning models. The aim is to accurately identify potential diabetes cases based on a set of health-related parameters.
 
 ## Getting Started
 
